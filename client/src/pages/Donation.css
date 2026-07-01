@@ -1,0 +1,23 @@
+.donation-layout {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 4rem;
+  align-items: start;
+}
+
+.qr-code-container {
+  background-image: url(../../public/photos/amitqr.jpeg);
+  background-size: cover;
+  background-position: center;
+  width: 500px;
+  height: 500px;
+  margin: 0 auto;  
+}
+
+
+@media (max-width: 768px) {
+  .donation-layout {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+}
