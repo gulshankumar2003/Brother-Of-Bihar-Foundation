@@ -1,4 +1,4 @@
-# Hope Foundation — NGO Website (MERN Stack)
+# NGO Website (MERN Stack)
 
 A full-stack NGO website built with **MongoDB**, **Express**, **React**, and **Node.js**. It includes five main pages: Home, About, Blog, Donation, and Our Work.
 
